@@ -10,13 +10,17 @@ print("How to use playgrounds to make writing Swift fun and simple")
 /*:
  Now print your own phrases to the console. Pick one of your favorite songs. Use your knowledge of the `print` function to display the song title and artist.
  */
-print("My name is Keira heheheheheh")
+print("Fruit Salad by The Wiggles")
 
 /*:
  Use multiple `print` functions to write out some of the lyrics to the song.
  */
+print("Fruit Salad, Yummy Yummy")
+print("Fruit Salad, Yummy Yummy")
+print("Fruit Salad, Yummy Yummy")
+print("Yummy yummy yummy yummy fruit salad!!!!")
 
-
+print("Let's make some fruit salad today (Uh huh uh)")
 
 /*:
 
